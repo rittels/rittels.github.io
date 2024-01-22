@@ -1,3 +1,3 @@
 export function showPlugin(p) {
-  retur `Plugin shown by Module: ${p}!`;
+  return `Plugin shown by Module: ${p}!`;
 }
