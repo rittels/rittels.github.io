@@ -1,3 +1,3 @@
-export function alertPlugin(p) {
+export function showPlugin(p) {
   alert(`Plugin: ${p}!`);
 }
